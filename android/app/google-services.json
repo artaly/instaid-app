@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "535733967021",
+    "project_id": "instaid-8ac41",
+    "storage_bucket": "instaid-8ac41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535733967021:android:fb7e0b7421cc75beb14e24",
+        "android_client_info": {
+          "package_name": "com.example.instaid_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535733967021-e8pv0hpfgq9a8o2315409erqeq4aaooc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instaid_dev",
+            "certificate_hash": "4f71f22aecd6fcef4471114760f5bdf07e9eb041"
+          }
+        },
+        {
+          "client_id": "535733967021-plbtqj9t299dbali2nkqacjnhqjv2ek5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instaid_dev",
+            "certificate_hash": "f559bd03b9310cd637f99ebf4ea83854b915e425"
+          }
+        },
+        {
+          "client_id": "535733967021-ecas84ag5jtt8f7uncvshmgorb3kk2js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHdeJI4IpCplXEgHebBFlzSH35Gkr2CUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535733967021-ecas84ag5jtt8f7uncvshmgorb3kk2js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
